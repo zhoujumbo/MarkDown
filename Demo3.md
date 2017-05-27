@@ -51,4 +51,6 @@ emoji 表情符号
 
   :emoji code:
   
-:dress:
+:dress:  
+
+[sech emoji here](http://emojipedia.org/)
